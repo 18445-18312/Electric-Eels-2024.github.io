@@ -24,6 +24,9 @@ html {
     font-size: 15px;
     justify-content: flex-end;
   }
+  .first-nav{
+    padding-left: 0;
+  }
   .header{
     /* background-color: #264653; */
     width:100%;
@@ -32,6 +35,8 @@ html {
     padding: 0px;
     top: 0;
     left: 0;
+    display: flex;
+    justify-content: center;
   
   }
   body {
