@@ -88,3 +88,7 @@ html {
     background-color: #f66b60;
     cursor: pointer;
   }
+
+  .fit-picture{
+    width: 10vw;
+  }
